@@ -1,0 +1,29 @@
+{
+    "Hunt": {
+        "checkpoints": [
+            {
+                "steps": 20574,
+                "file_path": "results\\t02\\Hunt\\Hunt-20574.onnx",
+                "reward": null,
+                "creation_time": 1701678945.372762,
+                "auxillary_file_paths": [
+                    "results\\t02\\Hunt\\Hunt-20574.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 20574,
+            "file_path": "results\\t02\\Hunt.onnx",
+            "reward": null,
+            "creation_time": 1701678945.372762,
+            "auxillary_file_paths": [
+                "results\\t02\\Hunt\\Hunt-20574.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.13.1+cpu"
+    }
+}
